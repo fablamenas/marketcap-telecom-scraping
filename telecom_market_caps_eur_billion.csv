@@ -1,5 +1,5 @@
 rang,nom,market_cap_(Mds_EUR),pays
-extracted_at_europe_paris,2025-12-18T12:40:17+01:00,,
+extracted_at_europe_paris,2025-12-18T12:40:29+01:00,,
 1,China Mobile,201.64,Chine
 2,T-Mobile US,191.35,USA
 3,AT&T,148.54,USA
@@ -90,7 +90,7 @@ extracted_at_europe_paris,2025-12-18T12:40:17+01:00,,
 88,Turkcell,4.42,Turquie
 89,Altius Telecom Infrastructure Trust,4.40,Inde
 90,United Internet,4.37,Allemagne
-91,1&1,4.14,Allemagne
+91,1&1,4.15,Allemagne
 92,TPG Telecom,4.10,Australie
 93,PLDT,4.08,Philippines
 94,Türk Telekom,3.97,Turquie
@@ -113,23 +113,23 @@ extracted_at_europe_paris,2025-12-18T12:40:17+01:00,,
 111,Crane NXT,2.29,USA
 112,Proximus,2.29,Belgique
 113,Tuas Limited,2.20,Australie
-114,SES S.A.,2.16,Luxembourg
+114,SES S.A.,2.17,Luxembourg
 115,Zain Saudi Arabia,2.12,A. Saoudite
 116,Megacable Holdings,2.09,Mexique
 117,Spark New Zealand,2.06,N. Zélande
 118,IHS Towers,2.03,UK
-119,Eutelsat,2.03,France
+119,Eutelsat,2.02,France
 120,NOS,1.98,Portugal
 121,Chorus,1.96,N. Zélande
 122,Partner Communications,1.93,Israël
 123,National Mobile Telecommunications Company,1.91,Koweït
-124,Helios Towers,1.87,UK
-125,Kuwait Telecommunications Company,1.87,Koweït
+124,Kuwait Telecommunications Company,1.87,Koweït
+125,Helios Towers,1.87,UK
 126,Batelco (Bahrain Telecommunication Company),1.80,Bahreïn
 127,Omantel (Oman Telecom),1.78,Oman
 128,Cogeco,1.73,Canada
-129,Sarana Menara Nusantara,1.71,Indonésie
-130,Cellcom Israel,1.71,Israël
+129,Cellcom Israel,1.72,Israël
+130,Sarana Menara Nusantara,1.71,Indonésie
 131,Iridium Communications,1.50,USA
 132,UNITI,1.46,USA
 133,Telkom SA,1.43,A. du Sud
