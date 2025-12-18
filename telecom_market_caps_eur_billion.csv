@@ -1,5 +1,5 @@
 rang,nom,market_cap_(Mds_EUR),pays
-extracted_at_europe_paris,2025-12-18T12:25:20+01:00,,
+extracted_at_europe_paris,2025-12-18T12:25:30+01:00,,
 1,China Mobile,201.64,🇨🇳 Chine
 2,T-Mobile US,191.35,🇺🇸 USA
 3,AT&T,148.54,🇺🇸 USA
@@ -123,7 +123,7 @@ extracted_at_europe_paris,2025-12-18T12:25:20+01:00,,
 121,Chorus,1.96,🇳🇿 N. Zélande
 122,Partner Communications,1.93,🇮🇱 Israël
 123,National Mobile Telecommunications Company,1.91,🇰🇼 Koweït
-124,Helios Towers,1.88,🇬🇧 UK
+124,Helios Towers,1.87,🇬🇧 UK
 125,Kuwait Telecommunications Company,1.87,🇰🇼 Koweït
 126,Batelco (Bahrain Telecommunication Company),1.80,🇧🇭 Bahreïn
 127,Omantel (Oman Telecom),1.78,🇴🇲 Oman
@@ -134,7 +134,7 @@ extracted_at_europe_paris,2025-12-18T12:25:20+01:00,,
 132,UNITI,1.46,🇺🇸 USA
 133,Telkom SA,1.42,🇿🇦 A. du Sud
 134,Liberty Latin America,1.41,🇺🇸 USA
-135,Cyfrowy Polsat,1.41,🇵🇱 Pologne
+135,Cyfrowy Polsat,1.40,🇵🇱 Pologne
 136,Al Yah Satellite Communications Company,1.17,🇦🇪 EAU
 137,Adtran Networks,1.13,🇩🇪 Allemagne
 138,IDT Corporation,1.13,🇺🇸 USA
