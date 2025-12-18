@@ -1,10 +1,10 @@
 rang,nom,market_cap_(Mds_EUR),pays
-extracted_at_europe_paris,2025-12-18T12:31:38+01:00,,
+extracted_at_europe_paris,2025-12-18T12:31:51+01:00,,
 1,China Mobile,201.64,🇨🇳 Chine
 2,T-Mobile US,191.35,🇺🇸 USA
 3,AT&T,148.54,🇺🇸 USA
 4,Verizon,146.99,🇺🇸 USA
-5,Deutsche Telekom,136.06,🇩🇪 Allemagne
+5,Deutsche Telekom,136.01,🇩🇪 Allemagne
 6,SoftBank,125.70,🇯🇵 Japon
 7,Bharti Airtel,120.40,🇮🇳 Inde
 8,Comcast,95.46,🇺🇸 USA
@@ -86,7 +86,7 @@ extracted_at_europe_paris,2025-12-18T12:31:38+01:00,,
 84,Bezeq,4.90,🇮🇱 Israël
 85,Tata Communications,4.82,🇮🇳 Inde
 86,Telecom Argentina,4.68,🇦🇷 Argentine
-87,Mobile TeleSystems,4.63,🇷🇺 Russie
+87,Mobile TeleSystems,4.62,🇷🇺 Russie
 88,Turkcell,4.42,🇹🇷 Turquie
 89,Altius Telecom Infrastructure Trust,4.40,🇮🇳 Inde
 90,United Internet,4.37,🇩🇪 Allemagne
