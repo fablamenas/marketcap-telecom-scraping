@@ -1,5 +1,5 @@
 rang,nom,market_cap_(Mds_EUR),pays
-extracted_at_europe_paris,2025-12-18T12:47:03+01:00,,
+extracted_at_europe_paris,2025-12-18T12:47:16+01:00,,
 1,China Mobile,201.64,Chine
 2,T-Mobile US,191.35,USA
 3,AT&T,148.54,USA
@@ -83,7 +83,7 @@ extracted_at_europe_paris,2025-12-18T12:47:03+01:00,,
 81,A1 Telekom Austria,5.95,Autriche
 82,Axiata Group,4.94,Malaisie
 83,PCCW,4.94,Hong Kong
-84,Bezeq,4.91,Israël
+84,Bezeq,4.90,Israël
 85,Tata Communications,4.82,Inde
 86,Telecom Argentina,4.68,Argentine
 87,Mobile TeleSystems,4.62,Russie
@@ -104,7 +104,7 @@ extracted_at_europe_paris,2025-12-18T12:47:03+01:00,,
 102,Liberty Global,3.12,UK
 103,VEON,3.08,Pays-Bas
 104,Calix,3.00,USA
-105,Orange Polska,2.97,Pologne
+105,Orange Polska,2.98,Pologne
 106,"Globe Telecom, Inc.",2.84,Philippines
 107,Tower Bersama Infrastructure,2.47,Indonésie
 108,NetLink Trust,2.43,Singapour
@@ -118,7 +118,7 @@ extracted_at_europe_paris,2025-12-18T12:47:03+01:00,,
 116,Megacable Holdings,2.09,Mexique
 117,Spark New Zealand,2.06,N. Zélande
 118,IHS Towers,2.03,UK
-119,Eutelsat,2.01,France
+119,Eutelsat,2.02,France
 120,NOS,1.98,Portugal
 121,Chorus,1.96,N. Zélande
 122,Partner Communications,1.93,Israël
