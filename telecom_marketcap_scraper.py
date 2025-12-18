@@ -79,7 +79,9 @@ def extract_rows(soup: BeautifulSoup) -> list[CompanyRow]:
         rank_text = tds[1].get_text(strip=True)
         name_cell = tds[2].get_text(" ", strip=True)
         market_cap_text = tds[3].get_text(" ", strip=True)
-        country = tds[7].get_text(" ", strip=True)
+        country_raw = tds[7].get_text(" ", strip=True)
+        # Remove flag emoji (first character + space) for Excel compatibility
+        country = re.sub(r'^[\U0001F1E0-\U0001F1FF]{2}\s*', '', country_raw).strip()
 
         market_cap = parse_market_cap_to_billion_eur(market_cap_text)
         if not rank_text or market_cap is None:
