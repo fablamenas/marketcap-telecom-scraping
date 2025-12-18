@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Send CSV report via email after scraping.
+Send Excel report via email after scraping.
 Uses SMTP configuration from config.json or environment variables.
 """
 import smtplib
@@ -15,6 +15,8 @@ from email import encoders
 from email.utils import formataddr
 from datetime import datetime
 from pathlib import Path
+
+from openpyxl import load_workbook
 
 
 def load_config():
@@ -35,8 +37,8 @@ def load_config():
     }
 
 
-def send_csv_report(csv_path: Path, row_count: int):
-    """Send the CSV file as an email attachment."""
+def send_excel_report(excel_path: Path, row_count: int):
+    """Send the Excel file as an email attachment."""
     config = load_config()
     
     if not config['smtp_user'] or not config['smtp_pass']:
@@ -57,25 +59,25 @@ Le scraping des capitalisations boursières des entreprises de télécommunicati
 
 📊 Résultats:
 - {row_count} entreprises extraites
-- Fichier: {csv_path.name}
+- Fichier: {excel_path.name}
 - Date: {datetime.now().strftime('%d/%m/%Y à %H:%M')}
 
-Le fichier CSV est joint à cet email.
+Le fichier Excel est joint à cet email.
 
 ---
 Ce message est envoyé automatiquement par le script de scraping.
 """
     msg.attach(MIMEText(body, 'plain', 'utf-8'))
     
-    # Attach CSV
-    if csv_path.exists():
-        with open(csv_path, 'rb') as f:
-            part = MIMEBase('application', 'octet-stream')
+    # Attach Excel file
+    if excel_path.exists():
+        with open(excel_path, 'rb') as f:
+            part = MIMEBase('application', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet')
             part.set_payload(f.read())
         encoders.encode_base64(part)
         part.add_header(
             'Content-Disposition',
-            f'attachment; filename="{csv_path.name}"'
+            f'attachment; filename="{excel_path.name}"'
         )
         msg.attach(part)
     
@@ -95,11 +97,12 @@ Ce message est envoyé automatiquement par le script de scraping.
 
 if __name__ == "__main__":
     # Test standalone
-    csv_file = Path(__file__).parent.parent / "telecom_market_caps_eur_billion.csv"
-    if csv_file.exists():
-        # Count rows (minus header and timestamp row)
-        with open(csv_file, 'r') as f:
-            row_count = sum(1 for _ in f) - 2
-        send_csv_report(csv_file, row_count)
+    excel_file = Path(__file__).parent.parent / "telecom_market_caps_eur_billion.xlsx"
+    if excel_file.exists():
+        # Count rows in Excel (minus header and timestamp row)
+        workbook = load_workbook(excel_file)
+        worksheet = workbook.active
+        row_count = worksheet.max_row - 2  # minus header and timestamp row
+        send_excel_report(excel_file, row_count)
     else:
-        print(f"CSV file not found: {csv_file}")
+        print(f"Excel file not found: {excel_file}")
