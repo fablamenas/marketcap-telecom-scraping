@@ -1,5 +1,5 @@
 rang,nom,market_cap_(Mds_EUR),pays
-extracted_at_europe_paris,2025-12-18T12:35:10+01:00,,
+extracted_at_europe_paris,2025-12-18T12:35:21+01:00,,
 1,China Mobile,201.64,Chine
 2,T-Mobile US,191.35,USA
 3,AT&T,148.54,USA
@@ -30,27 +30,27 @@ extracted_at_europe_paris,2025-12-18T12:35:10+01:00,,
 28,China Tower,22.81,Chine
 29,CK Hutchison Holdings,22.70,Hong Kong
 30,ZTE,21.15,Chine
-31,BT Group,20.74,UK
+31,BT Group,20.72,UK
 32,Telefónica,19.48,Espagne
 33,AST SpaceMobile,19.38,USA
 34,BCE,18.41,Canada
 35,Telkom Indonesia,17.99,Indonésie
-36,Cellnex Telecom,17.89,Espagne
+36,Cellnex Telecom,17.88,Espagne
 37,SBA Communications,17.35,USA
 38,Rogers Communication,17.24,Canada
 39,Telus,16.73,Canada
-40,Telenor,16.67,Norvège
+40,Telenor,16.65,Norvège
 41,Telefonica Brasil,16.19,Brésil
-42,KPN,15.52,Pays-Bas
-43,MTN Group,14.67,A. du Sud
+42,KPN,15.51,Pays-Bas
+43,MTN Group,14.68,A. du Sud
 44,Telia Company,13.98,Suède
-45,Vodacom,13.37,A. du Sud
-46,Airtel Africa,13.33,UK
+45,Vodacom,13.39,A. du Sud
+46,Airtel Africa,13.31,UK
 47,China Satellite Communications,12.66,Chine
 48,Vodafone Idea,11.58,Inde
-49,Etihad Etisalat (Mobily),11.35,A. Saoudite
+49,Etihad Etisalat (Mobily),11.38,A. Saoudite
 50,Zegona Communications,11.15,UK
-51,Telecom Italia,10.80,Italie
+51,Telecom Italia,10.79,Italie
 52,True Corporation,10.30,Thaïlande
 53,Indus Towers,10.18,Inde
 54,Emirates Integrated Telecommunications Company,10.03,EAU
@@ -69,7 +69,7 @@ extracted_at_europe_paris,2025-12-18T12:35:10+01:00,,
 67,Millicom,7.59,Luxembourg
 68,Quebecor,7.38,Canada
 69,InterDigital,7.15,USA
-70,INWIT,6.99,Italie
+70,INWIT,6.98,Italie
 71,OTE Group,6.75,Grèce
 72,Lumen Technologies,6.67,USA
 73,SK Telecom,6.47,Corée S.
@@ -90,7 +90,7 @@ extracted_at_europe_paris,2025-12-18T12:35:10+01:00,,
 88,Turkcell,4.42,Turquie
 89,Altius Telecom Infrastructure Trust,4.40,Inde
 90,United Internet,4.37,Allemagne
-91,1&1,4.14,Allemagne
+91,1&1,4.15,Allemagne
 92,TPG Telecom,4.10,Australie
 93,PLDT,4.08,Philippines
 94,Türk Telekom,3.98,Turquie
@@ -99,7 +99,7 @@ extracted_at_europe_paris,2025-12-18T12:35:10+01:00,,
 97,Telephone and Data Systems,3.77,USA
 98,ViaSat,3.71,USA
 99,Freenet,3.48,Allemagne
-100,Sunrise Communications AG,3.40,Suisse
+100,Sunrise Communications AG,3.39,Suisse
 101,XL Axiata,3.22,Indonésie
 102,Liberty Global,3.12,UK
 103,VEON,3.08,Pays-Bas
