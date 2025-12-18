@@ -1,5 +1,5 @@
 rang,nom,market_cap_(Mds_EUR),pays
-extracted_at_europe_paris,2025-12-18T12:26:52+01:00,,
+extracted_at_europe_paris,2025-12-18T12:27:02+01:00,,
 1,China Mobile,201.64,🇨🇳 Chine
 2,T-Mobile US,191.35,🇺🇸 USA
 3,AT&T,148.54,🇺🇸 USA
@@ -30,26 +30,26 @@ extracted_at_europe_paris,2025-12-18T12:26:52+01:00,,
 28,China Tower,22.81,🇨🇳 Chine
 29,CK Hutchison Holdings,22.70,🇭🇰 Hong Kong
 30,ZTE,21.15,🇨🇳 Chine
-31,BT Group,20.75,🇬🇧 UK
+31,BT Group,20.74,🇬🇧 UK
 32,Telefónica,19.48,🇪🇸 Espagne
 33,AST SpaceMobile,19.38,🇺🇸 USA
 34,BCE,18.41,🇨🇦 Canada
 35,Telkom Indonesia,17.99,🇮🇩 Indonésie
-36,Cellnex Telecom,17.87,🇪🇸 Espagne
+36,Cellnex Telecom,17.89,🇪🇸 Espagne
 37,SBA Communications,17.35,🇺🇸 USA
 38,Rogers Communication,17.24,🇨🇦 Canada
 39,Telus,16.73,🇨🇦 Canada
-40,Telenor,16.66,🇳🇴 Norvège
+40,Telenor,16.67,🇳🇴 Norvège
 41,Telefonica Brasil,16.19,🇧🇷 Brésil
 42,KPN,15.52,🇳🇱 Pays-Bas
-43,MTN Group,14.70,🇿🇦 A. du Sud
-44,Telia Company,13.98,🇸🇪 Suède
+43,MTN Group,14.65,🇿🇦 A. du Sud
+44,Telia Company,13.97,🇸🇪 Suède
 45,Vodacom,13.39,🇿🇦 A. du Sud
-46,Airtel Africa,13.31,🇬🇧 UK
+46,Airtel Africa,13.33,🇬🇧 UK
 47,China Satellite Communications,12.66,🇨🇳 Chine
 48,Vodafone Idea,11.58,🇮🇳 Inde
 49,Etihad Etisalat (Mobily),11.36,🇸🇦 A. Saoudite
-50,Zegona Communications,11.10,🇬🇧 UK
+50,Zegona Communications,11.09,🇬🇧 UK
 51,Telecom Italia,10.80,🇮🇹 Italie
 52,True Corporation,10.30,🇹🇭 Thaïlande
 53,Indus Towers,10.18,🇮🇳 Inde
@@ -69,7 +69,7 @@ extracted_at_europe_paris,2025-12-18T12:26:52+01:00,,
 67,Millicom,7.59,🇱🇺 Luxembourg
 68,Quebecor,7.38,🇨🇦 Canada
 69,InterDigital,7.15,🇺🇸 USA
-70,INWIT,6.98,🇮🇹 Italie
+70,INWIT,6.99,🇮🇹 Italie
 71,OTE Group,6.75,🇬🇷 Grèce
 72,Lumen Technologies,6.67,🇺🇸 USA
 73,SK Telecom,6.47,🇰🇷 Corée S.
