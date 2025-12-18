@@ -1,5 +1,5 @@
 rang,nom,market_cap_(Mds_EUR),pays
-extracted_at_europe_paris,2025-12-18T12:27:12+01:00,,
+extracted_at_europe_paris,2025-12-18T12:27:22+01:00,,
 1,China Mobile,201.64,🇨🇳 Chine
 2,T-Mobile US,191.35,🇺🇸 USA
 3,AT&T,148.54,🇺🇸 USA
@@ -132,7 +132,7 @@ extracted_at_europe_paris,2025-12-18T12:27:12+01:00,,
 130,Cellcom Israel,1.71,🇮🇱 Israël
 131,Iridium Communications,1.50,🇺🇸 USA
 132,UNITI,1.46,🇺🇸 USA
-133,Telkom SA,1.42,🇿🇦 A. du Sud
+133,Telkom SA,1.43,🇿🇦 A. du Sud
 134,Liberty Latin America,1.41,🇺🇸 USA
 135,Cyfrowy Polsat,1.40,🇵🇱 Pologne
 136,Al Yah Satellite Communications Company,1.17,🇦🇪 EAU
