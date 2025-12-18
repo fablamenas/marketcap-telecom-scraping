@@ -1,197 +1,197 @@
 rang,nom,market_cap_(Mds_EUR),pays
-extracted_at_europe_paris,2025-12-18T12:33:49+01:00,,
-1,China Mobile,201.64,🇨🇳 Chine
-2,T-Mobile US,191.35,🇺🇸 USA
-3,AT&T,148.54,🇺🇸 USA
-4,Verizon,146.99,🇺🇸 USA
-5,Deutsche Telekom,136.01,🇩🇪 Allemagne
-6,SoftBank,125.70,🇯🇵 Japon
-7,Bharti Airtel,120.40,🇮🇳 Inde
-8,Comcast,95.46,🇺🇸 USA
-9,China Telecom,72.39,🇨🇳 Chine
-10,American Tower,71.27,🇺🇸 USA
-11,NTT (Nippon Telegraph & Telephone),70.25,🇯🇵 Japon
-12,KDDI,56.49,🇯🇵 Japon
-13,America Movil,52.92,🇲🇽 Mexique
-14,Singtel,49.36,🇸🇬 Singapour
-15,Saudi Telecom Company,47.94,🇸🇦 A. Saoudite
-16,Orange,37.03,🇫🇷 France
-17,Emirates Telecom (Etisalat Group),36.35,🇦🇪 EAU
-18,Crown Castle,32.77,🇺🇸 USA
-19,Swisscom,31.53,🇨🇭 Suisse
-20,Telstra,30.58,🇦🇺 Australie
-21,China Unicom,28.10,🇭🇰 Hong Kong
-22,Chunghwa Telecom,27.13,🇹🇼 Taïwan
-23,Vodafone,25.81,🇬🇧 UK
-24,Advanced Info Service (AIS),24.99,🇹🇭 Thaïlande
-25,EchoStar,24.76,🇺🇸 USA
-26,Ciena,24.52,🇺🇸 USA
-27,Charter Communications,24.42,🇺🇸 USA
-28,China Tower,22.81,🇨🇳 Chine
-29,CK Hutchison Holdings,22.70,🇭🇰 Hong Kong
-30,ZTE,21.15,🇨🇳 Chine
-31,BT Group,20.74,🇬🇧 UK
-32,Telefónica,19.48,🇪🇸 Espagne
-33,AST SpaceMobile,19.38,🇺🇸 USA
-34,BCE,18.41,🇨🇦 Canada
-35,Telkom Indonesia,17.99,🇮🇩 Indonésie
-36,Cellnex Telecom,17.89,🇪🇸 Espagne
-37,SBA Communications,17.35,🇺🇸 USA
-38,Rogers Communication,17.24,🇨🇦 Canada
-39,Telus,16.73,🇨🇦 Canada
-40,Telenor,16.67,🇳🇴 Norvège
-41,Telefonica Brasil,16.19,🇧🇷 Brésil
-42,KPN,15.52,🇳🇱 Pays-Bas
-43,MTN Group,14.67,🇿🇦 A. du Sud
-44,Telia Company,13.98,🇸🇪 Suède
-45,Vodacom,13.37,🇿🇦 A. du Sud
-46,Airtel Africa,13.33,🇬🇧 UK
-47,China Satellite Communications,12.66,🇨🇳 Chine
-48,Vodafone Idea,11.58,🇮🇳 Inde
-49,Etihad Etisalat (Mobily),11.35,🇸🇦 A. Saoudite
-50,Zegona Communications,11.15,🇬🇧 UK
-51,Telecom Italia,10.80,🇮🇹 Italie
-52,True Corporation,10.30,🇹🇭 Thaïlande
-53,Indus Towers,10.18,🇮🇳 Inde
-54,Emirates Integrated Telecommunications Company,10.03,🇦🇪 EAU
-55,Ooredoo Qatar,9.77,🇶🇦 Qatar
-56,Tele2,9.74,🇸🇪 Suède
-57,Hong Kong Telecom,9.68,🇭🇰 Hong Kong
-58,Ooredoo,8.80,🇦🇪 EAU
-59,Taiwan Mobile,8.54,🇹🇼 Taïwan
-60,Far EasTone,8.54,🇹🇼 Taïwan
-61,TIM S.A.,8.52,🇧🇷 Brésil
-62,Bharti Hexacom,8.33,🇮🇳 Inde
-63,Frontier Communications,8.14,🇺🇸 USA
-64,Celcomdigi,8.05,🇲🇾 Malaisie
-65,SK Group,7.91,🇰🇷 Corée S.
-66,KT Corporation,7.83,🇰🇷 Corée S.
-67,Millicom,7.59,🇱🇺 Luxembourg
-68,Quebecor,7.38,🇨🇦 Canada
-69,InterDigital,7.15,🇺🇸 USA
-70,INWIT,6.99,🇮🇹 Italie
-71,OTE Group,6.75,🇬🇷 Grèce
-72,Lumen Technologies,6.67,🇺🇸 USA
-73,SK Telecom,6.47,🇰🇷 Corée S.
-74,Maxis Berhad,6.37,🇲🇾 Malaisie
-75,Indoritel,6.37,🇮🇩 Indonésie
-76,Telekom Malaysia,6.28,🇲🇾 Malaisie
-77,Sirius XM,6.24,🇺🇸 USA
-78,Zain (Mobile Telecommunications Company),6.20,🇰🇼 Koweït
-79,Globalstar,6.15,🇺🇸 USA
-80,Elisa,6.01,🇫🇮 Finlande
-81,A1 Telekom Austria,5.95,🇦🇹 Autriche
-82,Axiata Group,4.94,🇲🇾 Malaisie
-83,PCCW,4.94,🇭🇰 Hong Kong
-84,Bezeq,4.90,🇮🇱 Israël
-85,Tata Communications,4.82,🇮🇳 Inde
-86,Telecom Argentina,4.68,🇦🇷 Argentine
-87,Mobile TeleSystems,4.62,🇷🇺 Russie
-88,Turkcell,4.42,🇹🇷 Turquie
-89,Altius Telecom Infrastructure Trust,4.40,🇮🇳 Inde
-90,United Internet,4.37,🇩🇪 Allemagne
-91,1&1,4.14,🇩🇪 Allemagne
-92,TPG Telecom,4.10,🇦🇺 Australie
-93,PLDT,4.08,🇵🇭 Philippines
-94,Türk Telekom,3.98,🇹🇷 Turquie
-95,Indosat,3.93,🇮🇩 Indonésie
-96,Elang Mahkota Teknologi,3.85,🇮🇩 Indonésie
-97,Telephone and Data Systems,3.77,🇺🇸 USA
-98,ViaSat,3.71,🇺🇸 USA
-99,Freenet,3.48,🇩🇪 Allemagne
-100,Sunrise Communications AG,3.40,🇨🇭 Suisse
-101,XL Axiata,3.22,🇮🇩 Indonésie
-102,Liberty Global,3.12,🇬🇧 UK
-103,VEON,3.08,🇳🇱 Pays-Bas
-104,Calix,3.00,🇺🇸 USA
-105,Orange Polska,2.97,🇵🇱 Pologne
-106,"Globe Telecom, Inc.",2.84,🇵🇭 Philippines
-107,Tower Bersama Infrastructure,2.47,🇮🇩 Indonésie
-108,NetLink Trust,2.43,🇸🇬 Singapour
-109,Vodafone Qatar,2.35,🇶🇦 Qatar
-110,Crane NXT,2.29,🇺🇸 USA
-111,Sinch,2.29,🇸🇪 Suède
-112,Proximus,2.29,🇧🇪 Belgique
-113,Tuas Limited,2.20,🇦🇺 Australie
-114,SES S.A.,2.16,🇱🇺 Luxembourg
-115,Zain Saudi Arabia,2.12,🇸🇦 A. Saoudite
-116,Megacable Holdings,2.09,🇲🇽 Mexique
-117,Spark New Zealand,2.06,🇳🇿 N. Zélande
-118,Eutelsat,2.03,🇫🇷 France
-119,IHS Towers,2.03,🇬🇧 UK
-120,NOS,1.98,🇵🇹 Portugal
-121,Chorus,1.96,🇳🇿 N. Zélande
-122,Partner Communications,1.93,🇮🇱 Israël
-123,National Mobile Telecommunications Company,1.91,🇰🇼 Koweït
-124,Helios Towers,1.87,🇬🇧 UK
-125,Kuwait Telecommunications Company,1.87,🇰🇼 Koweït
-126,Batelco (Bahrain Telecommunication Company),1.80,🇧🇭 Bahreïn
-127,Omantel (Oman Telecom),1.78,🇴🇲 Oman
-128,Cogeco,1.73,🇨🇦 Canada
-129,Sarana Menara Nusantara,1.71,🇮🇩 Indonésie
-130,Cellcom Israel,1.71,🇮🇱 Israël
-131,Iridium Communications,1.50,🇺🇸 USA
-132,UNITI,1.46,🇺🇸 USA
-133,Telkom SA,1.43,🇿🇦 A. du Sud
-134,Liberty Latin America,1.41,🇺🇸 USA
-135,Cyfrowy Polsat,1.40,🇵🇱 Pologne
-136,Al Yah Satellite Communications Company,1.17,🇦🇪 EAU
-137,Adtran Networks,1.13,🇩🇪 Allemagne
-138,IDT Corporation,1.13,🇺🇸 USA
-139,Telia Lietuva,1.08,🇱🇹 Lituanie
-140,CAMGSM Plc. (Cellcard),1.04,🇰🇭 Cambodge
-141,OVH Groupe,1.03,🇫🇷 France
-142,Gamma Communications,0.95,🇬🇧 UK
-143,Cogent Communications,0.95,🇺🇸 USA
-144,Sinclair Broadcast,0.93,🇺🇸 USA
-145,Tata Teleservices,0.92,🇮🇳 Inde
-146,Criteo,0.88,🇫🇷 France
-147,Aussie Broadband Limited,0.80,🇦🇺 Australie
-148,LINK Mobility Group,0.76,🇳🇴 Norvège
-149,EuroTeleSites,0.74,🇦🇹 Autriche
-150,Altice USA,0.72,🇺🇸 USA
-151,Superloop Limited,0.72,🇦🇺 Australie
-152,Sify,0.70,🇮🇳 Inde
-153,TANLA,0.70,🇮🇳 Inde
-154,B Communications,0.69,🇮🇱 Israël
-155,GO (Etihad Atheeb Telecommunication Company),0.66,🇸🇦 A. Saoudite
-156,Cable One,0.64,🇺🇸 USA
-157,Gilat Satellite Networks,0.62,🇮🇱 Israël
-158,Hutchison Telecommunications Hong Kong Holdings,0.61,🇭🇰 Hong Kong
-159,mobilezone Holding,0.58,🇨🇭 Suisse
-160,SmarTone Telecommunications,0.57,🇭🇰 Hong Kong
-161,Shentel,0.54,🇺🇸 USA
-162,Gogo Inflight Internet,0.53,🇺🇸 USA
-163,Bahnhof AB,0.52,🇸🇪 Suède
-164,Tele Columbus,0.45,🇩🇪 Allemagne
-165,Ribbon Communications,0.43,🇺🇸 USA
-166,Ooredoo Oman,0.42,🇴🇲 Oman
-167,Bandwidth,0.38,🇺🇸 USA
-168,WideOpenWest,0.37,🇺🇸 USA
-169,Anterix,0.34,🇺🇸 USA
-170,ATN International,0.29,🇺🇸 USA
-171,Intracom Holdings,0.28,🇬🇷 Grèce
-172,Orbit Communication Systems,0.28,🇮🇱 Israël
-173,Ooma,0.26,🇺🇸 USA
-174,Hayat Communications Company,0.26,🇰🇼 Koweït
-175,Bredband2 i Skandinavien AB,0.25,🇸🇪 Suède
-176,Spok Holdings,0.23,🇺🇸 USA
-177,Síminn hf.,0.23,🇮🇸 Islande
-178,Smartoptics Group,0.22,🇳🇴 Norvège
-179,Slam Corp,0.22,🇺🇸 USA
-180,Mahanagar Telephone Nigam,0.21,🇮🇳 Inde
-181,Hathway,0.20,🇮🇳 Inde
-182,RADCOM,0.18,🇮🇱 Israël
-183,Sasken Technologies,0.16,🇮🇳 Inde
-184,Nelco,0.15,🇮🇳 Inde
-185,Intred,0.14,🇮🇹 Italie
-186,GTL Infrastructure,0.14,🇮🇳 Inde
-187,Vecima Networks,0.14,🇨🇦 Canada
-188,Sangoma Technologies,0.14,🇨🇦 Canada
-189,CM.com,0.14,🇳🇱 Pays-Bas
-190,Ascom Holding,0.14,🇨🇭 Suisse
+extracted_at_europe_paris,2025-12-18T12:33:59+01:00,,
+1,China Mobile,201.64,Chine
+2,T-Mobile US,191.35,USA
+3,AT&T,148.54,USA
+4,Verizon,146.99,USA
+5,Deutsche Telekom,136.01,Allemagne
+6,SoftBank,125.70,Japon
+7,Bharti Airtel,120.40,Inde
+8,Comcast,95.46,USA
+9,China Telecom,72.39,Chine
+10,American Tower,71.27,USA
+11,NTT (Nippon Telegraph & Telephone),70.25,Japon
+12,KDDI,56.49,Japon
+13,America Movil,52.92,Mexique
+14,Singtel,49.36,Singapour
+15,Saudi Telecom Company,47.94,A. Saoudite
+16,Orange,37.03,France
+17,Emirates Telecom (Etisalat Group),36.35,EAU
+18,Crown Castle,32.77,USA
+19,Swisscom,31.53,Suisse
+20,Telstra,30.58,Australie
+21,China Unicom,28.10,Hong Kong
+22,Chunghwa Telecom,27.13,Taïwan
+23,Vodafone,25.81,UK
+24,Advanced Info Service (AIS),24.99,Thaïlande
+25,EchoStar,24.76,USA
+26,Ciena,24.52,USA
+27,Charter Communications,24.42,USA
+28,China Tower,22.81,Chine
+29,CK Hutchison Holdings,22.70,Hong Kong
+30,ZTE,21.15,Chine
+31,BT Group,20.74,UK
+32,Telefónica,19.48,Espagne
+33,AST SpaceMobile,19.38,USA
+34,BCE,18.41,Canada
+35,Telkom Indonesia,17.99,Indonésie
+36,Cellnex Telecom,17.89,Espagne
+37,SBA Communications,17.35,USA
+38,Rogers Communication,17.24,Canada
+39,Telus,16.73,Canada
+40,Telenor,16.67,Norvège
+41,Telefonica Brasil,16.19,Brésil
+42,KPN,15.52,Pays-Bas
+43,MTN Group,14.67,A. du Sud
+44,Telia Company,13.98,Suède
+45,Vodacom,13.37,A. du Sud
+46,Airtel Africa,13.33,UK
+47,China Satellite Communications,12.66,Chine
+48,Vodafone Idea,11.58,Inde
+49,Etihad Etisalat (Mobily),11.35,A. Saoudite
+50,Zegona Communications,11.15,UK
+51,Telecom Italia,10.80,Italie
+52,True Corporation,10.30,Thaïlande
+53,Indus Towers,10.18,Inde
+54,Emirates Integrated Telecommunications Company,10.03,EAU
+55,Ooredoo Qatar,9.77,Qatar
+56,Tele2,9.74,Suède
+57,Hong Kong Telecom,9.68,Hong Kong
+58,Ooredoo,8.80,EAU
+59,Taiwan Mobile,8.54,Taïwan
+60,Far EasTone,8.54,Taïwan
+61,TIM S.A.,8.52,Brésil
+62,Bharti Hexacom,8.33,Inde
+63,Frontier Communications,8.14,USA
+64,Celcomdigi,8.05,Malaisie
+65,SK Group,7.91,Corée S.
+66,KT Corporation,7.83,Corée S.
+67,Millicom,7.59,Luxembourg
+68,Quebecor,7.38,Canada
+69,InterDigital,7.15,USA
+70,INWIT,6.99,Italie
+71,OTE Group,6.75,Grèce
+72,Lumen Technologies,6.67,USA
+73,SK Telecom,6.47,Corée S.
+74,Maxis Berhad,6.37,Malaisie
+75,Indoritel,6.37,Indonésie
+76,Telekom Malaysia,6.28,Malaisie
+77,Sirius XM,6.24,USA
+78,Zain (Mobile Telecommunications Company),6.20,Koweït
+79,Globalstar,6.15,USA
+80,Elisa,6.01,Finlande
+81,A1 Telekom Austria,5.95,Autriche
+82,Axiata Group,4.94,Malaisie
+83,PCCW,4.94,Hong Kong
+84,Bezeq,4.90,Israël
+85,Tata Communications,4.82,Inde
+86,Telecom Argentina,4.68,Argentine
+87,Mobile TeleSystems,4.62,Russie
+88,Turkcell,4.42,Turquie
+89,Altius Telecom Infrastructure Trust,4.40,Inde
+90,United Internet,4.37,Allemagne
+91,1&1,4.14,Allemagne
+92,TPG Telecom,4.10,Australie
+93,PLDT,4.08,Philippines
+94,Türk Telekom,3.98,Turquie
+95,Indosat,3.93,Indonésie
+96,Elang Mahkota Teknologi,3.85,Indonésie
+97,Telephone and Data Systems,3.77,USA
+98,ViaSat,3.71,USA
+99,Freenet,3.48,Allemagne
+100,Sunrise Communications AG,3.40,Suisse
+101,XL Axiata,3.22,Indonésie
+102,Liberty Global,3.12,UK
+103,VEON,3.08,Pays-Bas
+104,Calix,3.00,USA
+105,Orange Polska,2.97,Pologne
+106,"Globe Telecom, Inc.",2.84,Philippines
+107,Tower Bersama Infrastructure,2.47,Indonésie
+108,NetLink Trust,2.43,Singapour
+109,Vodafone Qatar,2.35,Qatar
+110,Crane NXT,2.29,USA
+111,Sinch,2.29,Suède
+112,Proximus,2.29,Belgique
+113,Tuas Limited,2.20,Australie
+114,SES S.A.,2.16,Luxembourg
+115,Zain Saudi Arabia,2.12,A. Saoudite
+116,Megacable Holdings,2.09,Mexique
+117,Spark New Zealand,2.06,N. Zélande
+118,Eutelsat,2.03,France
+119,IHS Towers,2.03,UK
+120,NOS,1.98,Portugal
+121,Chorus,1.96,N. Zélande
+122,Partner Communications,1.93,Israël
+123,National Mobile Telecommunications Company,1.91,Koweït
+124,Helios Towers,1.87,UK
+125,Kuwait Telecommunications Company,1.87,Koweït
+126,Batelco (Bahrain Telecommunication Company),1.80,Bahreïn
+127,Omantel (Oman Telecom),1.78,Oman
+128,Cogeco,1.73,Canada
+129,Sarana Menara Nusantara,1.71,Indonésie
+130,Cellcom Israel,1.71,Israël
+131,Iridium Communications,1.50,USA
+132,UNITI,1.46,USA
+133,Telkom SA,1.43,A. du Sud
+134,Liberty Latin America,1.41,USA
+135,Cyfrowy Polsat,1.40,Pologne
+136,Al Yah Satellite Communications Company,1.17,EAU
+137,Adtran Networks,1.13,Allemagne
+138,IDT Corporation,1.13,USA
+139,Telia Lietuva,1.08,Lituanie
+140,CAMGSM Plc. (Cellcard),1.04,Cambodge
+141,OVH Groupe,1.03,France
+142,Gamma Communications,0.95,UK
+143,Cogent Communications,0.95,USA
+144,Sinclair Broadcast,0.93,USA
+145,Tata Teleservices,0.92,Inde
+146,Criteo,0.88,France
+147,Aussie Broadband Limited,0.80,Australie
+148,LINK Mobility Group,0.76,Norvège
+149,EuroTeleSites,0.74,Autriche
+150,Altice USA,0.72,USA
+151,Superloop Limited,0.72,Australie
+152,Sify,0.70,Inde
+153,TANLA,0.70,Inde
+154,B Communications,0.69,Israël
+155,GO (Etihad Atheeb Telecommunication Company),0.66,A. Saoudite
+156,Cable One,0.64,USA
+157,Gilat Satellite Networks,0.62,Israël
+158,Hutchison Telecommunications Hong Kong Holdings,0.61,Hong Kong
+159,mobilezone Holding,0.58,Suisse
+160,SmarTone Telecommunications,0.57,Hong Kong
+161,Shentel,0.54,USA
+162,Gogo Inflight Internet,0.53,USA
+163,Bahnhof AB,0.52,Suède
+164,Tele Columbus,0.45,Allemagne
+165,Ribbon Communications,0.43,USA
+166,Ooredoo Oman,0.42,Oman
+167,Bandwidth,0.38,USA
+168,WideOpenWest,0.37,USA
+169,Anterix,0.34,USA
+170,ATN International,0.29,USA
+171,Intracom Holdings,0.28,Grèce
+172,Orbit Communication Systems,0.28,Israël
+173,Ooma,0.26,USA
+174,Hayat Communications Company,0.26,Koweït
+175,Bredband2 i Skandinavien AB,0.25,Suède
+176,Spok Holdings,0.23,USA
+177,Síminn hf.,0.23,Islande
+178,Smartoptics Group,0.22,Norvège
+179,Slam Corp,0.22,USA
+180,Mahanagar Telephone Nigam,0.21,Inde
+181,Hathway,0.20,Inde
+182,RADCOM,0.18,Israël
+183,Sasken Technologies,0.16,Inde
+184,Nelco,0.15,Inde
+185,Intred,0.14,Italie
+186,GTL Infrastructure,0.14,Inde
+187,Vecima Networks,0.14,Canada
+188,Sangoma Technologies,0.14,Canada
+189,CM.com,0.14,Pays-Bas
+190,Ascom Holding,0.14,Suisse
 191,Sudatel Telecommunications Group,0.13,Sudan
-192,Dominion Hosting,0.11,🇮🇹 Italie
-193,GTPL Hathway,0.10,🇮🇳 Inde
-194,Nova Klúbburinn,0.10,🇮🇸 Islande
-195,Zain Bahrain,0.10,🇧🇭 Bahreïn
+192,Dominion Hosting,0.11,Italie
+193,GTPL Hathway,0.10,Inde
+194,Nova Klúbburinn,0.10,Islande
+195,Zain Bahrain,0.10,Bahreïn
