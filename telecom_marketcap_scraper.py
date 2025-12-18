@@ -72,13 +72,14 @@ def extract_rows(soup: BeautifulSoup) -> list[CompanyRow]:
     rows: list[CompanyRow] = []
     for tr in table.select("tbody tr"):
         tds = tr.find_all("td")
-        if len(tds) < 4:
+        if len(tds) < 8:
             continue
 
-        rank_text = tds[0].get_text(strip=True)
-        name_cell = tds[1].get_text(" ", strip=True)
-        market_cap_text = tds[2].get_text(" ", strip=True)
-        country = tds[3].get_text(" ", strip=True)
+        # Column structure: 0=empty, 1=rank, 2=name+ticker, 3=market_cap, 4=price, 5=today%, 6=30days, 7=country
+        rank_text = tds[1].get_text(strip=True)
+        name_cell = tds[2].get_text(" ", strip=True)
+        market_cap_text = tds[3].get_text(" ", strip=True)
+        country = tds[7].get_text(" ", strip=True)
 
         market_cap = parse_market_cap_to_billion_eur(market_cap_text)
         if not rank_text or market_cap is None:

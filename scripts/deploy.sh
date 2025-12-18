@@ -5,7 +5,7 @@ set -e
 DEPLOY_DIR="/home/fabien/marketcap-telecom-scraping"
 
 echo "----------------------------------------"
-echo "🚀 Starting Deployment"
+echo "🚀 Starting Deployment & Scraping"
 echo "Target: $DEPLOY_DIR"
 echo "----------------------------------------"
 
@@ -15,12 +15,28 @@ cd "$DEPLOY_DIR"
 echo "📥 Pulling latest code..."
 git pull origin main
 
-# 2. TODO: Add your deployment steps here
-# Examples:
-# - Install dependencies: pip install -r requirements.txt
-# - Run migrations
-# - Restart services
-# - Build frontend
+# 2. Setup Python environment
+echo "🐍 Setting up Python environment..."
+if [ ! -d "venv" ]; then
+    python3 -m venv venv
+fi
+source venv/bin/activate
+pip install -q -r requirements.txt
+
+# 3. Run the scraper
+echo "📊 Running telecom market cap scraper..."
+python telecom_marketcap_scraper.py
+
+# 4. Commit and push the CSV if changed
+echo "💾 Committing CSV updates..."
+git add telecom_market_caps_eur_billion.csv
+if git diff --cached --quiet; then
+    echo "ℹ️ No changes to CSV file"
+else
+    git commit -m "📊 Update market cap data - $(date '+%Y-%m-%d %H:%M')"
+    git push origin main
+    echo "✅ CSV pushed to repository"
+fi
 
 echo "✅ Deployment Finished!"
 echo "🕐 Completed at $(date)"
