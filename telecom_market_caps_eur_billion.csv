@@ -1,5 +1,5 @@
 rang,nom,market_cap_(Mds_EUR),pays
-extracted_at_europe_paris,2025-12-18T12:45:27+01:00,,
+extracted_at_europe_paris,2025-12-18T12:45:38+01:00,,
 1,China Mobile,201.64,Chine
 2,T-Mobile US,191.35,USA
 3,AT&T,148.54,USA
@@ -154,7 +154,7 @@ extracted_at_europe_paris,2025-12-18T12:45:27+01:00,,
 152,Sify,0.70,Inde
 153,TANLA,0.70,Inde
 154,B Communications,0.69,Israël
-155,GO (Etihad Atheeb Telecommunication Company),0.67,A. Saoudite
+155,GO (Etihad Atheeb Telecommunication Company),0.66,A. Saoudite
 156,Cable One,0.64,USA
 157,Gilat Satellite Networks,0.62,Israël
 158,Hutchison Telecommunications Hong Kong Holdings,0.61,Hong Kong
