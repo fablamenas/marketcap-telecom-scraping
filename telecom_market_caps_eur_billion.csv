@@ -1,5 +1,5 @@
 rang,nom,market_cap_(Mds_EUR),pays
-extracted_at_europe_paris,2025-12-18T12:30:09+01:00,,
+extracted_at_europe_paris,2025-12-18T12:30:25+01:00,,
 1,China Mobile,201.64,🇨🇳 Chine
 2,T-Mobile US,191.35,🇺🇸 USA
 3,AT&T,148.54,🇺🇸 USA
@@ -15,7 +15,7 @@ extracted_at_europe_paris,2025-12-18T12:30:09+01:00,,
 13,America Movil,52.92,🇲🇽 Mexique
 14,Singtel,49.36,🇸🇬 Singapour
 15,Saudi Telecom Company,47.94,🇸🇦 A. Saoudite
-16,Orange,37.06,🇫🇷 France
+16,Orange,37.03,🇫🇷 France
 17,Emirates Telecom (Etisalat Group),36.35,🇦🇪 EAU
 18,Crown Castle,32.77,🇺🇸 USA
 19,Swisscom,31.50,🇨🇭 Suisse
@@ -30,7 +30,7 @@ extracted_at_europe_paris,2025-12-18T12:30:09+01:00,,
 28,China Tower,22.81,🇨🇳 Chine
 29,CK Hutchison Holdings,22.70,🇭🇰 Hong Kong
 30,ZTE,21.15,🇨🇳 Chine
-31,BT Group,20.74,🇬🇧 UK
+31,BT Group,20.75,🇬🇧 UK
 32,Telefónica,19.48,🇪🇸 Espagne
 33,AST SpaceMobile,19.38,🇺🇸 USA
 34,BCE,18.41,🇨🇦 Canada
@@ -41,16 +41,16 @@ extracted_at_europe_paris,2025-12-18T12:30:09+01:00,,
 39,Telus,16.73,🇨🇦 Canada
 40,Telenor,16.67,🇳🇴 Norvège
 41,Telefonica Brasil,16.19,🇧🇷 Brésil
-42,KPN,15.52,🇳🇱 Pays-Bas
-43,MTN Group,14.65,🇿🇦 A. du Sud
-44,Telia Company,13.97,🇸🇪 Suède
-45,Vodacom,13.39,🇿🇦 A. du Sud
+42,KPN,15.51,🇳🇱 Pays-Bas
+43,MTN Group,14.67,🇿🇦 A. du Sud
+44,Telia Company,13.98,🇸🇪 Suède
+45,Vodacom,13.38,🇿🇦 A. du Sud
 46,Airtel Africa,13.33,🇬🇧 UK
 47,China Satellite Communications,12.66,🇨🇳 Chine
 48,Vodafone Idea,11.58,🇮🇳 Inde
-49,Etihad Etisalat (Mobily),11.36,🇸🇦 A. Saoudite
-50,Zegona Communications,11.09,🇬🇧 UK
-51,Telecom Italia,10.80,🇮🇹 Italie
+49,Etihad Etisalat (Mobily),11.35,🇸🇦 A. Saoudite
+50,Zegona Communications,11.15,🇬🇧 UK
+51,Telecom Italia,10.79,🇮🇹 Italie
 52,True Corporation,10.30,🇹🇭 Thaïlande
 53,Indus Towers,10.18,🇮🇳 Inde
 54,Emirates Integrated Telecommunications Company,10.03,🇦🇪 EAU
@@ -90,7 +90,7 @@ extracted_at_europe_paris,2025-12-18T12:30:09+01:00,,
 88,Turkcell,4.42,🇹🇷 Turquie
 89,Altius Telecom Infrastructure Trust,4.40,🇮🇳 Inde
 90,United Internet,4.37,🇩🇪 Allemagne
-91,1&1,4.17,🇩🇪 Allemagne
+91,1&1,4.11,🇩🇪 Allemagne
 92,TPG Telecom,4.10,🇦🇺 Australie
 93,PLDT,4.08,🇵🇭 Philippines
 94,Türk Telekom,3.98,🇹🇷 Turquie
