@@ -27,7 +27,11 @@ pip install -q -r requirements.txt
 echo "📊 Running telecom market cap scraper..."
 python telecom_marketcap_scraper.py
 
-# 4. Commit and push the CSV if changed
+# 4. Send email with CSV attachment
+echo "📧 Sending email report..."
+python scripts/send_email.py
+
+# 5. Commit and push the CSV if changed
 echo "💾 Committing CSV updates..."
 git add telecom_market_caps_eur_billion.csv
 if git diff --cached --quiet; then
