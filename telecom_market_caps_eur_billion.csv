@@ -1,5 +1,5 @@
 rang,nom,market_cap_(Mds_EUR),pays
-extracted_at_europe_paris,2025-12-18T12:32:03+01:00,,
+extracted_at_europe_paris,2025-12-18T12:32:14+01:00,,
 1,China Mobile,201.64,🇨🇳 Chine
 2,T-Mobile US,191.35,🇺🇸 USA
 3,AT&T,148.54,🇺🇸 USA
@@ -90,7 +90,7 @@ extracted_at_europe_paris,2025-12-18T12:32:03+01:00,,
 88,Turkcell,4.42,🇹🇷 Turquie
 89,Altius Telecom Infrastructure Trust,4.40,🇮🇳 Inde
 90,United Internet,4.37,🇩🇪 Allemagne
-91,1&1,4.11,🇩🇪 Allemagne
+91,1&1,4.14,🇩🇪 Allemagne
 92,TPG Telecom,4.10,🇦🇺 Australie
 93,PLDT,4.08,🇵🇭 Philippines
 94,Türk Telekom,3.98,🇹🇷 Turquie
@@ -104,7 +104,7 @@ extracted_at_europe_paris,2025-12-18T12:32:03+01:00,,
 102,Liberty Global,3.12,🇬🇧 UK
 103,VEON,3.08,🇳🇱 Pays-Bas
 104,Calix,3.00,🇺🇸 USA
-105,Orange Polska,2.98,🇵🇱 Pologne
+105,Orange Polska,2.97,🇵🇱 Pologne
 106,"Globe Telecom, Inc.",2.84,🇵🇭 Philippines
 107,Tower Bersama Infrastructure,2.47,🇮🇩 Indonésie
 108,NetLink Trust,2.43,🇸🇬 Singapour
