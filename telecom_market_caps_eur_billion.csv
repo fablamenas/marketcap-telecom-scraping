@@ -1,10 +1,10 @@
 rang,nom,market_cap_(Mds_EUR),pays
-extracted_at_europe_paris,2025-12-18T12:46:39+01:00,,
+extracted_at_europe_paris,2025-12-18T12:46:52+01:00,,
 1,China Mobile,201.64,Chine
 2,T-Mobile US,191.35,USA
 3,AT&T,148.54,USA
 4,Verizon,146.99,USA
-5,Deutsche Telekom,136.01,Allemagne
+5,Deutsche Telekom,135.91,Allemagne
 6,SoftBank,125.70,Japon
 7,Bharti Airtel,120.40,Inde
 8,Comcast,95.46,USA
@@ -14,8 +14,8 @@ extracted_at_europe_paris,2025-12-18T12:46:39+01:00,,
 12,KDDI,56.49,Japon
 13,America Movil,52.92,Mexique
 14,Singtel,49.36,Singapour
-15,Saudi Telecom Company,47.94,A. Saoudite
-16,Orange,37.02,France
+15,Saudi Telecom Company,47.92,A. Saoudite
+16,Orange,37.00,France
 17,Emirates Telecom (Etisalat Group),36.35,EAU
 18,Crown Castle,32.77,USA
 19,Swisscom,31.47,Suisse
