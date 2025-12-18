@@ -1,5 +1,5 @@
 rang,nom,market_cap_(Mds_EUR),pays
-extracted_at_europe_paris,2025-12-18T12:46:52+01:00,,
+extracted_at_europe_paris,2025-12-18T12:47:03+01:00,,
 1,China Mobile,201.64,Chine
 2,T-Mobile US,191.35,USA
 3,AT&T,148.54,USA
@@ -35,7 +35,7 @@ extracted_at_europe_paris,2025-12-18T12:46:52+01:00,,
 33,AST SpaceMobile,19.38,USA
 34,BCE,18.41,Canada
 35,Telkom Indonesia,17.99,Indonésie
-36,Cellnex Telecom,17.85,Espagne
+36,Cellnex Telecom,17.87,Espagne
 37,SBA Communications,17.35,USA
 38,Rogers Communication,17.24,Canada
 39,Telus,16.73,Canada
@@ -50,12 +50,12 @@ extracted_at_europe_paris,2025-12-18T12:46:52+01:00,,
 48,Vodafone Idea,11.58,Inde
 49,Etihad Etisalat (Mobily),11.39,A. Saoudite
 50,Zegona Communications,11.19,UK
-51,Telecom Italia,10.80,Italie
+51,Telecom Italia,10.79,Italie
 52,True Corporation,10.30,Thaïlande
 53,Indus Towers,10.18,Inde
 54,Emirates Integrated Telecommunications Company,10.03,EAU
 55,Ooredoo Qatar,9.77,Qatar
-56,Tele2,9.72,Suède
+56,Tele2,9.71,Suède
 57,Hong Kong Telecom,9.68,Hong Kong
 58,Ooredoo,8.80,EAU
 59,Taiwan Mobile,8.54,Taïwan
