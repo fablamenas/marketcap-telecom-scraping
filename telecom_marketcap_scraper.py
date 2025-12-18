@@ -130,7 +130,9 @@ def write_csv(rows: Iterable[CompanyRow], *, output: Path, extracted_at: datetim
 
     sorted_rows = sorted(rows, key=lambda row: row.rank)
 
-    with output.open("w", newline="", encoding="utf-8") as f:
+    # Use UTF-8 with BOM so Excel detects the encoding and renders accented
+    # characters correctly.
+    with output.open("w", newline="", encoding="utf-8-sig") as f:
         writer = csv.writer(f)
         writer.writerow(["rang", "nom", "market_cap_(Mds_EUR)", "pays"])
         writer.writerow([
