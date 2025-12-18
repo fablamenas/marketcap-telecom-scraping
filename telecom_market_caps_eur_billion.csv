@@ -1,5 +1,5 @@
 rang,nom,market_cap_(Mds_EUR),pays
-extracted_at_europe_paris,2025-12-18T12:51:45+01:00,,
+extracted_at_europe_paris,2025-12-18T12:51:56+01:00,,
 1,China Mobile,201.64,Chine
 2,T-Mobile US,191.35,USA
 3,AT&T,148.54,USA
@@ -14,11 +14,11 @@ extracted_at_europe_paris,2025-12-18T12:51:45+01:00,,
 12,KDDI,56.49,Japon
 13,America Movil,52.92,Mexique
 14,Singtel,49.36,Singapour
-15,Saudi Telecom Company,47.92,A. Saoudite
+15,Saudi Telecom Company,47.94,A. Saoudite
 16,Orange,37.02,France
 17,Emirates Telecom (Etisalat Group),36.35,EAU
 18,Crown Castle,32.77,USA
-19,Swisscom,31.47,Suisse
+19,Swisscom,31.50,Suisse
 20,Telstra,30.58,Australie
 21,China Unicom,28.10,Hong Kong
 22,Chunghwa Telecom,27.13,Taïwan
@@ -30,7 +30,7 @@ extracted_at_europe_paris,2025-12-18T12:51:45+01:00,,
 28,China Tower,22.81,Chine
 29,CK Hutchison Holdings,22.70,Hong Kong
 30,ZTE,21.15,Chine
-31,BT Group,20.74,UK
+31,BT Group,20.73,UK
 32,Telefónica,19.48,Espagne
 33,AST SpaceMobile,19.38,USA
 34,BCE,18.41,Canada
@@ -42,8 +42,8 @@ extracted_at_europe_paris,2025-12-18T12:51:45+01:00,,
 40,Telenor,16.64,Norvège
 41,Telefonica Brasil,16.19,Brésil
 42,KPN,15.52,Pays-Bas
-43,MTN Group,14.76,A. du Sud
-44,Telia Company,13.97,Suède
+43,MTN Group,14.78,A. du Sud
+44,Telia Company,13.95,Suède
 45,Vodacom,13.41,A. du Sud
 46,Airtel Africa,13.30,UK
 47,China Satellite Communications,12.66,Chine
