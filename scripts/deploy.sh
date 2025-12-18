@@ -13,7 +13,8 @@ cd "$DEPLOY_DIR"
 
 # 1. Update Code
 echo "📥 Pulling latest code..."
-git pull origin main
+git fetch origin main
+git reset --hard origin/main
 
 # 2. Setup Python environment
 echo "🐍 Setting up Python environment..."
@@ -31,16 +32,9 @@ python telecom_marketcap_scraper.py
 echo "📧 Sending email report..."
 python scripts/send_email.py
 
-# 5. Commit and push the CSV if changed
-echo "💾 Committing CSV updates..."
-git add telecom_market_caps_eur_billion.csv
-if git diff --cached --quiet; then
-    echo "ℹ️ No changes to CSV file"
-else
-    git commit -m "📊 Update market cap data - $(date '+%Y-%m-%d %H:%M')"
-    git push origin main
-    echo "✅ CSV pushed to repository"
-fi
+# 5. Note: CSV updates are kept local only
+# (Pushing would trigger the workflow again in an infinite loop)
+echo "ℹ️ CSV updated locally (not pushed to avoid workflow loop)"
 
 echo "✅ Deployment Finished!"
 echo "🕐 Completed at $(date)"
