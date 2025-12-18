@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 import argparse
-import csv
 import re
 from dataclasses import dataclass
 from datetime import datetime
@@ -11,6 +10,7 @@ from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
+from openpyxl import Workbook
 
 BASE_URL = (
     "https://companiesmarketcap.com/fr/telecommunication/"
@@ -125,43 +125,48 @@ def scrape_all(*, timeout: int = DEFAULT_TIMEOUT, max_pages: int = MAX_PAGES) ->
     return all_rows
 
 
-def write_csv(rows: Iterable[CompanyRow], *, output: Path, extracted_at: datetime) -> None:
+def write_excel(rows: Iterable[CompanyRow], *, output: Path, extracted_at: datetime) -> None:
     output.parent.mkdir(parents=True, exist_ok=True)
 
     sorted_rows = sorted(rows, key=lambda row: row.rank)
 
-    # Use UTF-8 with BOM so Excel detects the encoding and renders accented
-    # characters correctly.
-    with output.open("w", newline="", encoding="utf-8-sig") as f:
-        writer = csv.writer(f)
-        writer.writerow(["rang", "nom", "market_cap_(Mds_EUR)", "pays"])
-        writer.writerow([
+    workbook = Workbook()
+    worksheet = workbook.active
+    worksheet.title = "market_caps"
+
+    worksheet.append(["rang", "nom", "market_cap_(Mds_EUR)", "pays"])
+    worksheet.append(
+        [
             "extracted_at_europe_paris",
             extracted_at.isoformat(timespec="seconds"),
             "",
             "",
-        ])
+        ]
+    )
 
-        for row in sorted_rows:
-            writer.writerow(
-                [
-                    row.rank,
-                    row.name,
-                    f"{row.market_cap_billion_eur:.2f}",
-                    row.country,
-                ]
-            )
+    for row in sorted_rows:
+        worksheet.append(
+            [
+                row.rank,
+                row.name,
+                round(row.market_cap_billion_eur, 2),
+                row.country,
+            ]
+        )
+        worksheet.cell(row=worksheet.max_row, column=3).number_format = "0.00"
+
+    workbook.save(output)
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Scrape telecom market caps and write them to a CSV file."
+        description="Scrape telecom market caps and write them to an Excel file."
     )
     parser.add_argument(
         "--output",
         type=Path,
-        default=Path("telecom_market_caps_eur_billion.csv"),
-        help="Output CSV path (default: telecom_market_caps_eur_billion.csv)",
+        default=Path("telecom_market_caps_eur_billion.xlsx"),
+        help="Output Excel path (default: telecom_market_caps_eur_billion.xlsx)",
     )
     parser.add_argument(
         "--max-pages",
@@ -183,7 +188,7 @@ def main() -> None:
     extracted_at = datetime.now(TZ)
 
     rows = scrape_all(timeout=args.timeout, max_pages=args.max_pages)
-    write_csv(rows, output=args.output, extracted_at=extracted_at)
+    write_excel(rows, output=args.output, extracted_at=extracted_at)
 
     print(f"{len(rows)} lignes écrites dans {args.output}")
 
