@@ -31,7 +31,7 @@ def load_config():
         'smtp_port': int(config.get('smtp_port', os.environ.get('SMTP_PORT', 465))),
         'smtp_user': config.get('smtp_user', os.environ.get('SMTP_USER')),
         'smtp_pass': config.get('smtp_pass', os.environ.get('SMTP_PASS')),
-        'recipient': config.get('recipient', os.environ.get('RECIPIENT', 'fabien.voyer@gmail.com')),
+        'recipient': config.get('recipient', os.environ.get('RECIPIENT', 'fabien.voyer@orange.com')),
     }
 
 

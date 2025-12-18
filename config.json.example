@@ -3,5 +3,5 @@
     "smtp_port": 465,
     "smtp_user": "VOTRE_EMAIL@gegetour.com",
     "smtp_pass": "VOTRE_MOT_DE_PASSE",
-    "recipient": "fabien.voyer@gmail.com"
+    "recipient": "fabien.voyer@orange.com"
 }
