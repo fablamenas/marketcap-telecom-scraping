@@ -1,5 +1,5 @@
 rang,nom,market_cap_(Mds_EUR),pays
-extracted_at_europe_paris,2025-12-18T12:45:15+01:00,,
+extracted_at_europe_paris,2025-12-18T12:45:27+01:00,,
 1,China Mobile,201.64,Chine
 2,T-Mobile US,191.35,USA
 3,AT&T,148.54,USA
@@ -69,7 +69,7 @@ extracted_at_europe_paris,2025-12-18T12:45:15+01:00,,
 67,Millicom,7.59,Luxembourg
 68,Quebecor,7.38,Canada
 69,InterDigital,7.15,USA
-70,INWIT,6.98,Italie
+70,INWIT,6.97,Italie
 71,OTE Group,6.75,Grèce
 72,Lumen Technologies,6.67,USA
 73,SK Telecom,6.47,Corée S.
@@ -83,14 +83,14 @@ extracted_at_europe_paris,2025-12-18T12:45:15+01:00,,
 81,A1 Telekom Austria,5.95,Autriche
 82,Axiata Group,4.94,Malaisie
 83,PCCW,4.94,Hong Kong
-84,Bezeq,4.90,Israël
+84,Bezeq,4.91,Israël
 85,Tata Communications,4.82,Inde
 86,Telecom Argentina,4.68,Argentine
 87,Mobile TeleSystems,4.62,Russie
 88,Turkcell,4.42,Turquie
 89,Altius Telecom Infrastructure Trust,4.40,Inde
 90,United Internet,4.37,Allemagne
-91,1&1,4.14,Allemagne
+91,1&1,4.15,Allemagne
 92,TPG Telecom,4.10,Australie
 93,PLDT,4.08,Philippines
 94,Türk Telekom,3.97,Turquie
@@ -99,7 +99,7 @@ extracted_at_europe_paris,2025-12-18T12:45:15+01:00,,
 97,Telephone and Data Systems,3.77,USA
 98,ViaSat,3.71,USA
 99,Freenet,3.48,Allemagne
-100,Sunrise Communications AG,3.39,Suisse
+100,Sunrise Communications AG,3.40,Suisse
 101,XL Axiata,3.22,Indonésie
 102,Liberty Global,3.12,UK
 103,VEON,3.08,Pays-Bas
@@ -109,16 +109,16 @@ extracted_at_europe_paris,2025-12-18T12:45:15+01:00,,
 107,Tower Bersama Infrastructure,2.47,Indonésie
 108,NetLink Trust,2.43,Singapour
 109,Vodafone Qatar,2.35,Qatar
-110,Sinch,2.29,Suède
-111,Crane NXT,2.29,USA
-112,Proximus,2.29,Belgique
+110,Crane NXT,2.29,USA
+111,Proximus,2.29,Belgique
+112,Sinch,2.28,Suède
 113,Tuas Limited,2.20,Australie
 114,SES S.A.,2.17,Luxembourg
 115,Zain Saudi Arabia,2.12,A. Saoudite
 116,Megacable Holdings,2.09,Mexique
 117,Spark New Zealand,2.06,N. Zélande
 118,IHS Towers,2.03,UK
-119,Eutelsat,2.02,France
+119,Eutelsat,2.01,France
 120,NOS,1.98,Portugal
 121,Chorus,1.96,N. Zélande
 122,Partner Communications,1.93,Israël
@@ -128,8 +128,8 @@ extracted_at_europe_paris,2025-12-18T12:45:15+01:00,,
 126,Batelco (Bahrain Telecommunication Company),1.80,Bahreïn
 127,Omantel (Oman Telecom),1.78,Oman
 128,Cogeco,1.73,Canada
-129,Cellcom Israel,1.72,Israël
-130,Sarana Menara Nusantara,1.71,Indonésie
+129,Sarana Menara Nusantara,1.71,Indonésie
+130,Cellcom Israel,1.71,Israël
 131,Iridium Communications,1.50,USA
 132,UNITI,1.46,USA
 133,Telkom SA,1.43,A. du Sud
