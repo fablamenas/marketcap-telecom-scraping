@@ -1,5 +1,5 @@
 rang,nom,market_cap_(Mds_EUR),pays
-extracted_at_europe_paris,2025-12-18T12:30:25+01:00,,
+extracted_at_europe_paris,2025-12-18T12:30:38+01:00,,
 1,China Mobile,201.64,🇨🇳 Chine
 2,T-Mobile US,191.35,🇺🇸 USA
 3,AT&T,148.54,🇺🇸 USA
@@ -109,8 +109,8 @@ extracted_at_europe_paris,2025-12-18T12:30:25+01:00,,
 107,Tower Bersama Infrastructure,2.47,🇮🇩 Indonésie
 108,NetLink Trust,2.43,🇸🇬 Singapour
 109,Vodafone Qatar,2.35,🇶🇦 Qatar
-110,Sinch,2.29,🇸🇪 Suède
-111,Crane NXT,2.29,🇺🇸 USA
+110,Crane NXT,2.29,🇺🇸 USA
+111,Sinch,2.29,🇸🇪 Suède
 112,Proximus,2.29,🇧🇪 Belgique
 113,Tuas Limited,2.20,🇦🇺 Australie
 114,SES S.A.,2.16,🇱🇺 Luxembourg
