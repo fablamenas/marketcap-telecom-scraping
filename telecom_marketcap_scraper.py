@@ -17,6 +17,20 @@ BASE_URL = (
     "plus-grandes-entreprises-de-telecommunications-par-capitalisation-boursiere/"
 )
 TZ = ZoneInfo("Europe/Paris")
+FRENCH_MONTH_NAMES = [
+    "janvier",
+    "février",
+    "mars",
+    "avril",
+    "mai",
+    "juin",
+    "juillet",
+    "août",
+    "septembre",
+    "octobre",
+    "novembre",
+    "décembre",
+]
 DEFAULT_TIMEOUT = 30
 MAX_PAGES = 20
 HEADERS = {
@@ -130,6 +144,14 @@ def write_excel(rows: Iterable[CompanyRow], *, output: Path, extracted_at: datet
 
     sorted_rows = sorted(rows, key=lambda row: row.rank)
 
+    extracted_at_paris = extracted_at.astimezone(TZ)
+    month_name = FRENCH_MONTH_NAMES[extracted_at_paris.month - 1]
+    extracted_at_human = (
+        f"{extracted_at_paris.day:02d} {month_name} "
+        f"{extracted_at_paris.year} à "
+        f"{extracted_at_paris:%H:%M:%S} (heure de Paris)"
+    )
+
     workbook = Workbook()
     worksheet = workbook.active
     worksheet.title = "market_caps"
@@ -138,7 +160,7 @@ def write_excel(rows: Iterable[CompanyRow], *, output: Path, extracted_at: datet
     worksheet.append(
         [
             "extracted_at_europe_paris",
-            extracted_at.isoformat(timespec="seconds"),
+            extracted_at_human,
             "",
             "",
         ]
