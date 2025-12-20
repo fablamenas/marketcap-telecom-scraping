@@ -7,9 +7,9 @@ on:
   schedule:
     # 9h00 heure de Paris (8h00 UTC en hiver, 7h00 UTC en été)
     # On utilise 8h00 UTC pour l'heure d'hiver (CET = UTC+1)
-    - cron: '0 8 * * 1-5'
+    - cron: '0 8 * * *'
     # 18h00 heure de Paris (17h00 UTC en hiver, 16h00 UTC en été)
-    - cron: '0 17 * * 1-5'
+    - cron: '0 17 * * *'
   workflow_dispatch:  # Permet le déclenchement manuel
 
 jobs:
